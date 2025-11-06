@@ -62,3 +62,7 @@ NET "d_out<7>"  LOC= "p154";
 NET "en"  LOC="p168";
 NET "rs"  LOC="p171";
 NET "rw" LOC="p169";
+
+
+borseyash123@gmail.com
+Yash_2004@
